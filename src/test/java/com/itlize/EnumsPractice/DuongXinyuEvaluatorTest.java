@@ -1,7 +1,8 @@
 package com.itlize.EnumsPractice;
 import org.junit.Assert;
 import org.junit.Test;
-
+import com.itlize.EnumsPractice.DuongXinyuEvaluator;
+import com.itlize.EnumsPractice.DuongXinyuEvaluatorEnum;
 /**
  * Created by yang on 02/03/20.
  */
